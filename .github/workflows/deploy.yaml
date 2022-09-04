@@ -33,6 +33,7 @@ jobs:
           git checkout -b pages
           rm -rf docs
           mv build docs
+          mv CNAME docs/
           git add -f ./docs
           git commit -m "Add build"
           git push -f origin pages

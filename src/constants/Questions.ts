@@ -26,12 +26,8 @@ const QUESTIONS: Question[] = [
     answer: true,
   },
   {
-    question: "Använder personen ofta liknelser i sitt språk?",
-    answer: true,
-  },
-  {
     question:
-      "Har personen ofta ett kategoriskt språk, till exempel ”världens främsta”?",
+      "Använder personen starka berättelser och liknelser för att påverka dig?",
     answer: true,
   },
   {
